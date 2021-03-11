@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EXAMLIST</string>
+    <string name="txt_name">NAME</string>
+    <string name="btn_add">ADD</string>
+    <string name="noName">Empty Name</string>
+    <string name="completeSave">Save Complete !!!</string>
+    <string name="btn_cancel">Cancel</string>
+    <string-array name="fruits">
+        <item>apple</item>
+        <item>banana</item>
+        <item>mellon</item>
+        <item>grape</item>
+        <item>kiwi</item>
+        <item>cherry</item>
+    </string-array>
+</resources>
